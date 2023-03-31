@@ -14,4 +14,5 @@ Here are steps to create a pull request.
 | Shivansh Sood  | 2210992328 | [Link](https://soodshivansh.github.io/GDSC-Project.github.io/) |
 | Vardhman Jain  | 2210992513 | [Link](https://vardhman0000.github.io/GDSC/sample-website.html) |
 | Aditya Anchal  | 2210993506 | [Link](https://mikepence10cent.github.io/GDSCWEBSITE/) |
+| Harneet Atwal| 2210991611|[Link](https://harneet-atwal8.github.io/websitehosting.github.io/)|
 
